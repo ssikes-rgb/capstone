@@ -1,1 +1,183 @@
 
+body {
+
+
+.on-edge {text-align:center;
+          color:white;
+         padding-top:20px;
+          background-color:gray;}
+
+  .about-html{
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  background-color:grey;
+  text-align: center
+}
+  }
+
+
+.navbar-book{
+          font-family: "Roboto Mono", monospace;
+          font-optical-sizing: auto;
+          font-weight: <weight>;
+          font-style: normal;
+          background-color: grey;
+          text-align:center;
+          color: black;
+          padding-top:9px;
+          padding-bottom: 9px;
+             
+          
+
+  
+.navbar{ text-align: center;
+         color: white;
+          padding-top: 10px;
+        background-color: white; 
+        background-color-repeat: no-repeat;
+       } 
+a {color:black;
+   text-align:center;}
+
+.onbody { background-image:url("https://static.wixstatic.com/media/5c42b05d1b3641509a5b14e8e47b08f6.jpg/v1/fill/w_1366,h_660,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/5c42b05d1b3641509a5b14e8e47b08f6.jpg");
+ padding-top:100px;
+ padding-bottom: 350px;
+ padding-left:0px;
+ text-align: right;
+ background-repeat: no-repeat;}   
+
+
+
+  
+
+  
+.forms {
+    text-align: center ;
+ 
+
+.name {
+  text-align: center                   ;
+ 
+  }
+
+  
+ul{ text-align:middle;
+    color:black;
+  }
+
+li{padding-top: : 10px;
+   padding-bottom: 10px;
+  padding-left:20px;
+   padding-right: 20px }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: 160px;
+  margin-top:0px;
+  padding-top:0px;
+  
+}
+
+
+  
+
+.one { font-family:"Segoe UI", Roboto;
+        font-style: normal;
+       text-align:center;
+       color:black;
+       padding-top: 70px;
+       padding-bottom: 30px;}
+ 
+
+
+.two { font-family:"Playwrite DE SAS", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+      text-align:center;
+      color:black;
+     flex-direction:row;
+     background-color: white;
+     width:200px;
+     margin:5px;
+     text-align: center;  
+     font-size: 10px;
+     display: inline-block;
+     padding: 20px;
+    
+}
+
+.three{font-family: "Arizonia", cursive;
+      font-optical-sizing: auto;
+      font-weight: 400;
+      font-style: normal;
+      text-align: center;
+      color: black;
+      flex-direction:row;
+      background-color: white;
+      width:200px;
+      margin:5px;
+     text-align: center;  
+     font-size: 10px; 
+     display:inline-block;
+     padding:20px;
+      }
+
+  
+      
+
+.four {  font-family: "Edu AU VIC WA NT Guides", cursive;
+          font-optical-sizing: auto;
+          font-weight:197;
+          font-style: normal;
+          text-align: center;
+          color:black;
+          padding-top:10px;
+          padding-bottom:10px }
+
+ 
+.five {font-family: "Playwrite DE SAS", cursive;
+       font-optical-sizing: auto;
+       font-weight: 197;
+       font-style: normal;
+      color:black; flex-direction:row;
+     background-color:  white;
+     width:200px;
+     margin:5px;
+     text-align: center;  
+     font-size: 10px;
+     display: inline-block;
+     padding: 20px;
+}
+ 
+
+.six{ font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+      color:black;
+      flex-direction:row;
+     background-color: white;
+     width:200px;
+     margin:5px;
+     text-align: center;  
+     font-size: 10px;
+     display: inline-block;
+     padding: 20px;
+}
+}
+  
+
+       
+.seven{}
+
+
+
+  
+}
+  
+
+
